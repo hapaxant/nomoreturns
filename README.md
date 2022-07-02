@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# no more turns
 
-## Setup
+this mod is intended to be used by clients to play on servers with the [Turns datapack](https://github.com/KatieFrogs/turns-datapack)
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+right click while in spectator mode to request a turn.
